@@ -1,0 +1,12 @@
+.*.swp
+.*.swo
+*~
+*.exe
+*.res
+*.bak
+*.dbg
+*id_rsa
+*.trc
+/backup
+/lib
+gcConfig.txt
